@@ -1,0 +1,13 @@
+metric,value
+Personal videos collected,12
+Final source video frames,267
+Source video FPS,30
+Source video duration_seconds,8.9
+Hand detection rate_percent,58.05
+Detected hand frames,155
+Retargeted trajectory samples,25
+Simulation states,145
+Grasp target error_mm,0.198
+Final horizontal placement error_mm,0.0
+Final vertical placement error_mm,0.0
+Task success,True
